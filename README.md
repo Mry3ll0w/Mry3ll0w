@@ -1,7 +1,17 @@
 ### Hi there 👋
+My name is Antonio, I'm a junior developer just trying to learn and improve, I hope you like my repos 😁
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning JavaScript, ReactJS, NodeJS and more
+- 👯 I’m looking to collaborate with everyone who show me an interesting project
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about C, C++, SQL, MSSQL, Python3
 
+### Contact me 📞
+## By mail 📩
+## StackOverFlow https://stackoverflow.com/users/11335249/antonio-roldan?tab=profile
+## Twitter @aradxc56
 <!--
-**Mry3ll0w/Mry3ll0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -11,6 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+[![Top Langs ✌️](https://github-readme-stats.vercel.app/api/top-langs/?username=Mry3ll0w&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
