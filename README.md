@@ -3,8 +3,8 @@ My name is Antonio, I'm a junior developer just trying to learn and improve, I h
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning JavaScript, ReactJS, NodeJS and more
 - 👯 I’m looking to collaborate with everyone who show me an interesting project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about C, C++, SQL, MSSQL, Python3
+
+- 💬 Ask me about C, C++, SQL, MSSQL, Python
 
 ### Contact me 📞
 ## By mail 📩
